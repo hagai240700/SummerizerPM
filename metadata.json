@@ -1,0 +1,6 @@
+{
+  "name": "Meeting Summarizer for PMs",
+  "description": "כלי AI מתקדם המפיק אוטומטית סיכום מובנה, החלטות, משימות לפרויקטים, ואנליטיקות שימוש מתמלילי פגישות עבור מנהלי מוצר.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
